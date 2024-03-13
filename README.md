@@ -1,4 +1,5 @@
-#  Olá, bem-vindo ao meu projeto de codificador e decodificador, esse é meu terceiro projeto desenvolvido com curso da Alura de HTML, CSS e Javascript.
+#  Olá, bem-vindo ao meu projeto de codificador e decodificador de texto.
+Esse é meu terceiro projeto desenvolvido com curso da Alura de HTML, CSS e Javascript.
 ## Ferramentas utilizadas
 * HTML
 * CSS
